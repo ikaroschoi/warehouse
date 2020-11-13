@@ -17,9 +17,9 @@ http://localhost:8080/
 ```
 
 ## Testing dataset
-You can use testing data inside 'dataset' folder or use your own dataset.
-Upload csv file of product and inventory in 'upload product/inventory' apge.
-After upload the test data, you can use 'search' and 'transfer' function otherwise it will show not found error message.
+You can use testing data inside `dataset` folder or use your own dataset.
+Upload csv file of product and inventory in `upload product/inventory` apge.
+After upload the test data, you can use `search` and `transfer` function otherwise it will show not found error message.
 
 ## Homepage
 ![](https://raw.githubusercontent.com/ikaroschoi/warehouse/main/screen/home.JPG )
