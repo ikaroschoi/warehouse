@@ -33,7 +33,7 @@ After upload the test data, you can use 'search' and 'transfer' function otherwi
 ## Transferpage
 ![](https://raw.githubusercontent.com/ikaroschoi/warehouse/main/screen/transfer.JPG )
 
-## Daily shot
+## Daily short
 ### Day one
 * study the requirements
 * study spring boot
